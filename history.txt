@@ -1,0 +1,325 @@
+    1  git --version
+    2  cd C:\Users\Default\Documents\IT Career Hub
+    3  cd -p C:\Users\Default\Documents\IT Career Hub
+    4  cd -p C:\Users\Default
+    5  cd C:\Users\Default
+    6  cd C:\Users\madei\Documents\Git-directory
+    7  cd \Documents\Git-directory
+    8  cd /Documents/Git-directory
+    9  cd /Git-directory
+   10  cd C:\Users\madei\Git-directory
+   11  cd C:\Users\madei\Git-directory
+   12  cd \madei\Git-directory
+   13  cd /madei/Git-directory
+   14  mkdir -p /mdei/Git
+   15  mkdir -p /madei/Git
+   16  pwd
+   17  cd /c/Users/madei/Git-directory
+   18  git clone [200~git@github.com:m-strelnikova/ITCH-Git.git~
+   19  git clone git@github.com:m-strelnikova/ITCH-Git.git
+   20  ls -al
+   21  pwd
+   22  git config --global user.name MStrelnikova
+   23  git config --global user.email hashitomada@gmail.com
+   24  git config --global -l
+   25  ls -al
+   26  cd ITCH-Git/
+   27  ls -al
+   28  cd /c/Users/madei/Git-directory
+   29  cd ITCH-Git/
+   30  cd /c/Users/Default
+   31  cd /Documents
+   32  ls -al
+   33  cd Documents
+   34  cd IT\ Career\ Hub/Linux
+   35  ls -al
+   36  cat file\ (1)\ HW\ 8.txt 
+   37  cat file
+   38  cat file\ HW\ 8\ \(Eddi\ edition\).txt 
+   39  vi scriptLinux03_03_26.txt
+   40  chmod +x scriptLinux03_03_26.txt
+   41  ./scriptLinux03_03_26.txt
+   42  cat scriptLinux03_03_26.txt
+   43  cd /c/Users/madei/Git-directory/
+   44  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/
+   45  ls -l
+   46  vi scriptLinux03_03_26.txt 
+   47  ./scriptLinux03_03_26.txt 
+   48  scriptLinux03_03_26.txt >> scriptLinux03_03_26.sh
+   49  cat scriptLinux03_03_26.txt >> scriptLinux03_03_26.sh
+   50  chmod +x scriptLinux03_03_26.sh
+   51  ./scriptLinux03_03_26.sh
+   52  vi scriptLinux03_03_26.txt
+   53  vi scriptLinux03_03_26.sh
+   54  [200~git@github.com:m-strelnikova/ITCH-Git.git~exit
+   55  cd /c/Users/Default/Documents/IT_Career_Hub/li
+   56  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/
+   57  git clone git@github.com:m-strelnikova/ITCH-Git.git
+   58  ls -al
+   59  cd ITCH-Git/
+   60  ls -al
+   61  cd .git | ls -al
+   62  cd .git 
+   63  ls -al
+   64  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/ITCH-Git
+   65  git status
+   66  git add fileGit1.txt
+   67  git add file.txt
+   68  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/
+   69  ls -al
+   70  rm -rf ITCH-Git/
+   71  ls -al
+   72  git clone [200~git@github.com:m-strelnikova/ITCH-Git.git~
+   73  git clone git@github.com:m-strelnikova/ITCH-Git.git
+   74  clear
+   75  cd ITCH-Git/
+   76  ls -al
+   77  git status
+   78  date >> fileForGit.txt
+   79  git status
+   80  git add fileForGit.txt 
+   81  git status
+   82  git commit -m "inital commit"
+   83  git status
+   84  git log
+   85  nano song.txt
+   86  git status
+   87  add .
+   88  add song.txt 
+   89  git add .
+   90  git status
+   91  git log
+   92  git add song.txt 
+   93  git log
+   94  git commit -m "new file example"
+   95  git log
+   96  git git push
+   97  git push
+   98  cd /c/Users/Default/Documents/IT_Career_Hub/Linux
+   99  mkdir
+  100  mkdir git_intro
+  101  cd git_intro/
+  102  git init
+  103  git status
+  104  git status
+  105  git add 2021-08-10-PICTURE.png 
+  106  ls -al
+  107  ls -al
+  108  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/
+  109  cd git-intro/
+  110  git remote add origin git@github.com:m-strelnikova/-git_intro.git
+  111  ls -al
+  112  git init
+  113  ls -al
+  114  git remote add origin git@github.com:m-strelnikova/-git_intro.git
+  115  git add 2021-08-10-PICTURE.png 
+  116  git status
+  117  git commit -m "Picture for Task HW 8"
+  118  git push 2021-08-10-PICTURE.png
+  119  date >> date.txt
+  120  git status
+  121  git add date.txt 
+  122  git log
+  123  git commit date.txt -m "test file" 
+  124  git commit 2021-08-10-PICTURE.png -m "Picture for Task HW 8" 
+  125  git log
+  126  git push .
+  127  git status
+  128  git push 2021-08-10-PICTURE.png
+  129  ls -al
+  130  git statis
+  131  git status
+  132  git log
+  133  git remote add origin git@github.com:m-strelnikova/git_intro.git
+  134  git push -u origin main
+  135  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-intro/
+  136  git init
+  137  git add 2021-08-10-PICTURE.png 
+  138  git commit -m "Photo HW 8"
+  139  git log
+  140  git branch -M main
+  141  git remote add origin git@github.com:m-strelnikova/git_intro.git
+  142  git push -u origin main 
+  143  git pull --help
+  144  git pull origin HEAD 
+  145  git push -u origin main
+  146  git log
+  147  git commit 2021-08-10-PICTURE.png -m "Photo HW 8"
+  148  git push origin mein
+  149  git push origin main
+  150  git remote -v
+  151  git push -u origin main
+  152  cd /c/
+  153  pwd
+  154  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/
+  155  cd g
+  156  cd git-intro/
+  157  ls -al
+  158  git init
+  159  git status
+  160  git add 2021-08-10-PICTURE.png 
+  161  git commit -m "Added Photo HW 9" 
+  162  git log
+  163  git remote add origin git@github.com:m-strelnikova/git_intro.git
+  164  git remote -v
+  165  ssh -T git@github.com
+  166  git push -u origin main
+  167  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-intro/
+  168  ls -al
+  169  git init
+  170  git add picture_forest_castelvania.png 
+  171  git commit -m "Added Photo Hw 8"
+  172  git branch -M main
+  173  git remote add origin git@github.com:m-strelnikova/git-intro.git
+  174  git remote -v
+  175  git push -u origin main
+  176  git pull remote main
+  177  git pull remote origin
+  178  git remote -v
+  179  git pull
+  180  git log
+  181  git status
+  182  git push -u origin main
+  183  git push remote origin
+  184  git push origin main
+  185  git remote -v
+  186  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-intro/
+  187  git remote -v
+  188  cd /c/Users/Default/Documents/IT_Career_Hub/Linux
+  189  ls -la
+  190  cd git-intro/
+  191  ls -al
+  192  git init
+  193  git add picture_forest_castelvania.png 
+  194  git commit -m "Added picture HW 8"
+  195  git remote origin git@github.com:m-strelnikova/git-intro.git
+  196  git remote add origin git@github.com:m-strelnikova/git-intro.git
+  197  git push -u origin main
+  198  git status
+  199  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-branch/
+  200  git init 
+  201  git checkout -b <gitignore>
+  202  git checkout -b "gitignore"
+  203  nano Random-File-Script.sh
+  204  chmod +x Random-File-Script.sh 
+  205  ./Random-File-Script.sh 
+  206  ls -al
+  207  nano Random-File-Script.sh
+  208  ls -al
+  209  git add Random-File-Script.sh 
+  210  git commit -m "Added file HW 10"
+  211  nano Random-File-Script.sh 
+  212  nano Random-File-Script.sh 
+  213  ls -al
+  214  rm -rf Random-File-Script.sh
+  215  ls -al
+  216  git add Random-File-Script.gitignore 
+  217  git commit -m "File GITIGNORE HW 10"
+  218  git status
+  219  git push origin gitignore 
+  220  git branch
+  221  git checkout "main"
+  222  git branch main
+  223  git checkout main
+  224  git checkout gitignore 
+  225  ls -al
+  226  git checkout main
+  227  ls -al
+  228  git branch
+  229  git log
+  230  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-branch/
+  231  git init
+  232  git checkout -b gitignore
+  233  cp /c/Users/Default/Documents/IT_Career_Hub/Linux/Random-File-Script.gitignore /c/Users/Default/Documents/IT_Career_Hub/Linux/git-branch/Random-File-Script.gitignore
+  234  git checkout main -- Random-File-Script.gitignore
+  235  git branch
+  236  git branch
+  237  ls -al
+  238  git branch
+  239  git init
+  240  ls -al
+  241  git branch
+  242  git checkout main
+  243  git add Random-File-Script.gitignore 
+  244  git branch
+  245  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-branch/
+  246  git init
+  247  git branch -M main
+  248  git checkout -b gitignore
+  249  nano file.gitignore
+  250  add file.gitignore 
+  251  git status
+  252  git add --help
+  253  git add file.gitignore 
+  254  git commit -m "Added file HW 10"
+  255  git log
+  256  git remote add origin git@github.com:m-strelnikova/git-branch.git
+  257  git push origin gitignore 
+  258  git status
+  259  git log
+  260  git checkout main
+  261  git branch
+  262  git checkout -b main
+  263  git branch
+  264  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-features-amend/
+  265  git pull
+  266  git init
+  267  git pull
+  268  git pull [200~git@github.com:m-strelnikova/git-features-amend.git~
+  269  git pull git@github.com:m-strelnikova/git-features-amend.git
+  270  ls -al
+  271  git status
+  272  git checkout -b feature
+  273  date >> README.MD
+  274  touch .gitignore | nano .gitignore
+  275  ls -al
+  276  nano .gitignore
+  277  git status
+  278  git log
+  279  git commit -m "initial feature files"
+  280  git add 
+  281  git status
+  282  git add README.md 
+  283  git status
+  284  ls -al
+  285  git log
+  286  git checkout main
+  287  ls -al
+  288  git checkout feature 
+  289  ls -al
+  290  git commit -m "initial feature files"
+  291  git push -u origin feature 
+  292  git log
+  293  git push -u remote feature
+  294  git push -u remote origin
+  295  git push -u remote origin git@github.com:m-strelnikova/git-features-amend.git
+  296  git push -u origin git@github.com:m-strelnikova/git-features-amend.git
+  297  git push -u origin feature git@github.com:m-strelnikova/git-features-amend.git
+  298  git status
+  299  git remote add origin git@github.com:m-strelnikova/git-features-amend.git
+  300  git push -u origin feature 
+  301  git commit --amend "initial feature files AMMEND"
+  302  git commit --amend
+  303  git checkout main
+  304  git merge feature 
+  305  history >> historyHW12.txt
+  306  git add historyHW12.txt 
+  307  git commit -m "command bar history"
+  308  git status
+  309  git log
+  310  git push origin main
+  311  cd /c/Users/Default/Documents/IT_Career_Hub/Linux/git-features-amend/
+  312  git init
+  313  git pull git@github.com:m-strelnikova/git-features-amend.git
+  314  git checkout -b feature
+  315  date > README.md
+  316  touch .gitignore
+  317  git add --all
+  318  git commit -m "initial feature files"
+  319  git push -u origin git@github.com:m-strelnikova/git-features-amend.git
+  320  git remote add origin git@github.com:m-strelnikova/git-features-amend.git
+  321  git push -u origin feature
+  322  git commit --amend
+  323  git checkout main
+  324  git merge feature 
+  325  history > history.txt
